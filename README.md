@@ -6,7 +6,7 @@ This project is a simple interactive map game where users can click on countries
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone <repository-url>
+    git clone git@github.com:cihataydin/veni-vidi-vici.git
     ```
 
 2. Open the `index.html` file in your web browser to view the game.
